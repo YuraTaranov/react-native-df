@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "961017899218",
+    "project_id": "df-test-e1e78",
+    "storage_bucket": "df-test-e1e78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961017899218:android:96f513586616a7ae02650b",
+        "android_client_info": {
+          "package_name": "com.dfartjoker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961017899218-kkvk2fd21c56d4pnkd8ave639eo9ir88.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dfartjoker",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "961017899218-pmf0e7kh7vb7dg4p89gj3hspn999h5o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961017899218-pmf0e7kh7vb7dg4p89gj3hspn999h5o5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "961017899218-bk0vgss5q6ubvk3p0dhr2plqgkg3qr1u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dfartjoker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

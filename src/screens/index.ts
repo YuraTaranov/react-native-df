@@ -1,0 +1,11 @@
+export {default as Home} from './Home/Home';
+export {default as Onboarding} from './Onboarding/Onboarding';
+export {default as SignUp} from './SignUp/SignUp';
+export {default as ResetPassword} from './ResetPassword/ResetPassword';
+export {default as SignInPhone} from './SignInPhone/SignInPhone';
+export {default as GoogleAuthenticator} from './GoogleAuthenticator/GoogleAuthenticator';
+export {default as Profile} from './Profile/Profile';
+export {default as ProfileInfo} from './ProfileInfo/ProfileInfo';
+export {default as Gallery} from './Gallery/Gallery';
+export {default as UploadImage} from './UploadImage/UploadImage';
+export {default as SignIn} from './SignIn/SignIn';
